@@ -51,3 +51,20 @@
 《參考資料》
 http://davidbau.com/archives/2010/01/30/random_seeds_coded_hints_and_quintillions.html
 
+
+
+
+
+<!-- By Yu-Yi Lin 林侑億 -->
+
+1.檔案說明
+  1.1. 作業完成檔案：hw_html_password-by_Yu-YiLin.html
+  1.2. 用來做部分功能測試檔案：test.html
+  1.3. 加入Bootstrap樣式套件所需的資料，其他檔案為作業原有之檔案
+
+2.作業完成內容：
+  2.1. 美化操作介面。例如套用 Bootstrap 之類的套件。  ---完成(套用Bootstrap樣式套件)
+  2.2. 加強程式功能。例如，讓使用者可選純數字或者「數字＋字母」，可自行設定行數之類的。  ---完成(使用者可自行選擇模式，自行輸入Row及Column的數值)
+  2.3. 寫作操作文件。利用 HTML 說明如何使用本程式。  ---完成(Help按鈕).
+
+<!-- END -->
